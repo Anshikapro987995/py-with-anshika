@@ -1,0 +1,7 @@
+str1=input("Enter a string :")
+str2=input("Enter second string:")
+final=(str1+" "+str2)
+print(str1+" "+str2)
+print(len(final))
+print(len(str1))
+print(len(str2))
