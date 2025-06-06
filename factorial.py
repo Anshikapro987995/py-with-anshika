@@ -10,3 +10,4 @@ while i<=num:
     fact=fact*i
     i+=1
 print("fcatorial is",fact)
+print("updated file")
