@@ -1,0 +1,6 @@
+tup=(2,3,4,5,4,4)
+print((tup[0]))
+print(tup[3])
+print(tup[1:3])
+print(tup.index(4))
+print(tup.count(4))
